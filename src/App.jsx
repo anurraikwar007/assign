@@ -4,7 +4,7 @@ import Loader from './Components/loader/Loader'
 import Page2  from './Components/Page2/Page2'
 import Page3 from './Components/Page3/Page3'
 import Faq from './Components/FAQ/Faq'
-import JoinUs from './Components/div/Joinus'
+import JoinUs from './Components/div/JoinUs'
 import Footer from './Components/Footer/Footer'
 function App() {
   return (
