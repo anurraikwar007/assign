@@ -8,7 +8,7 @@ const Page2 = () => {
         {/* Left Div  */}
         <div className="h-full w-1/2 flex-1">
           
-          <img src="public/image/ProfileG.png" alt="Image 1" className=" top-56 w-500 h-100 object-cover rounded-lg  transform translate-x-[-2%]  hover:scale-125
+          <img src="/image/ProfileG.png" alt="Image 1" className=" top-56 w-500 h-100 object-cover rounded-lg  transform translate-x-[-2%]  hover:scale-125
              transition-transform duration-500" />
         </div>
 

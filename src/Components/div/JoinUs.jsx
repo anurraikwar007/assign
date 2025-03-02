@@ -59,7 +59,7 @@ const JoinUs = () => {
           data-aos="fade-left"  // AOS animation for image (fade from left)
         >
           <img
-            src="public/image/logo2.png"  // Replace with your image URL
+            src="/image/logo2.png"  // Replace with your image URL
             alt="Join AcquiSell"
             className="w-[300px] h-auto rounded-lg opacity-80 transition-all duration-500 hover:opacity-100 hover:scale-105"
           />

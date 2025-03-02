@@ -9,7 +9,7 @@ const Footer = () => {
         {/* First Column */}
         <div className="w-1/4">
           <div className="flex items-center mb-6">
-            <img src="public/image/Group 3.png" alt="AcquiSell Logo" className="w-13 h-8 mr-4" />
+            <img src="/image/Group 3.png" alt="AcquiSell Logo" className="w-13 h-8 mr-4" />
           </div>
           <p className="text-xs gap-5">
             AcquiSell is M&A’s largest AI powered marketplace. Sellers <br /> sell for free and buyers have access to an exclusive flow of opportunities not found anywhere else.
@@ -63,11 +63,11 @@ const Footer = () => {
 
       {/* Footer Corner Images */}
       <div className="absolute bottom-4 left-4">
-        <img src="public/image/gray.png" alt="Footer Left Image" className="w-60 h-60 opacity-70 hover:opacity-100 transition-all duration-300" />
+        <img src="/image/gray.png" alt="Footer Left Image" className="w-60 h-60 opacity-70 hover:opacity-100 transition-all duration-300" />
       </div>
 
       <div className="absolute top-4 right-4">
-        <img src="public/image/blue.png" alt="Footer Right Image" className="w-20 h-20 opacity-70 hover:opacity-100 transition-all duration-300" />
+        <img src="/image/blue.png" alt="Footer Right Image" className="w-20 h-20 opacity-70 hover:opacity-100 transition-all duration-300" />
       </div>
     </div>
   );
