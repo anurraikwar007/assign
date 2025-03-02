@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This class will reverse the direction of the animation when hovering */
+.row-hover:hover {
+    transform: translateY(-20px);   /* Move the row up on hover */
+    opacity: 0.8;                   /* Fade out slightly */
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .row-hover {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  
