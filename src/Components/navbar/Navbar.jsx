@@ -7,7 +7,7 @@ const NavBar = () => {
       <div className="flex items-center">
         
         <img 
-          src="public/image/Group 2.png" 
+          src="/image/Group 2.png" 
           className="w-8px h-[36.52px] relative top-[5px]" 
           alt="logo" 
         />
